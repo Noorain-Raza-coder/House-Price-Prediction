@@ -11,9 +11,10 @@ buyer who is planning to buy a house so he can know the price range in the futur
 To build a Machine Learning model using the house price data(for any region) that will predict the house price with a high degree of predictive accuracy.
 
 ## Requirements:
-IDE: jupyternotebook
-python version : 3.9.12
-libraries : mentioned in requirements.txt file in repository
+-[IDE: jupyternotebook](#IDE: jupyternotebook)
+-[Python version : 3.9.12](#python version : 3.9.12)
+-[Libraries : mentioned in requirements.txt file in repository](#libraries : mentioned in requirements.txt file in repository)
+
 
 ## Task:
 import required library
