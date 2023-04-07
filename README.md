@@ -25,9 +25,9 @@ To build a Machine Learning model using the house price data(for any region) tha
 ###feature extraction(feature engineering)
 ###splitting data into train and test
 ###model building:
-  >linear regression
-  >rigde regression
-  >lasso regresssion
+  ##linear regression
+  ##rigde regression
+  ##lasso regresssion
 ###model evaluation
 
 ## Conclusion:
