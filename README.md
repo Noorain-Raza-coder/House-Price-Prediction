@@ -17,18 +17,18 @@ To build a Machine Learning model using the house price data(for any region) tha
 
 
 ## Task:
-import required library
-data understanding
-data cleaning
-variable transformation (feature engineering)
-perform EDA(Exploratory Data Analysis)
-feature extraction(feature engineering)
-splitting data into train and test
-model building:
+-import required library
+-data understanding
+-data cleaning
+-variable transformation (feature engineering)
+-perform EDA(Exploratory Data Analysis)
+-feature extraction(feature engineering)
+-splitting data into train and test
+-model building:
   >linear regression
   >rigde regression
   >lasso regresssion
-model evaluation
+-model evaluation
 
 ## Conclusion:
 Sucessfully built a House Price Predictor that predicts the house price for a region with an accuracy of 80%.
