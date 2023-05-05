@@ -38,3 +38,7 @@ To run this project, you will need to download the following :
 - Model Evaluation
 ## Conclusion :
 Sucessfully built a House Price Predictor that predicts the house price for a region with an accuracy of 80%.
+
+![Screenshot (885)](https://user-images.githubusercontent.com/113137065/236449007-e3c181c4-6df6-4d74-bb30-9b2e635d80e5.png)
+![Screenshot (888)](https://user-images.githubusercontent.com/113137065/236449020-2abb86d6-5d68-49cf-9329-affa20cd555e.png)
+![Screenshot (891)](https://user-images.githubusercontent.com/113137065/236449021-78216dee-2320-477d-ae10-07ceebcd08bd.png)
