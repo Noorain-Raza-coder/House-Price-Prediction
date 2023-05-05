@@ -22,6 +22,8 @@ To run this project, you will need to download the following :
 
 `libraries : mentioned in requirements.txt`
 
+`pycharm version : 23.1.1`
+
 
 ## Task:
 - Import Required library
